@@ -38,6 +38,7 @@ h3 {
     max-width: 1000px;
 }
 
+ul li,
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -57,4 +58,12 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.bold {
+  font-weight:bold;
+}
+
+ul li {
+    padding-bottom: 30px;
 }
